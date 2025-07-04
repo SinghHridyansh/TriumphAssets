@@ -1,0 +1,98 @@
+@font-face {
+  font-family: "TriumphBrokman-Italic";
+  src: url("TriumphBrokman-Italic.woff2") format("woff2"),
+    url("TriumphBrokman-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-Light";
+  src: url("TriumphBrokman-Light.woff2") format("woff2"),
+    url("TriumphBrokman-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-Medium";
+  src: url("TriumphBrokman-Medium.woff2") format("woff2"),
+    url("TriumphBrokman-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-Black";
+  src: url("TriumphBrokman-Black.woff2") format("woff2"),
+    url("TriumphBrokman-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-ExtraBold";
+  src: url("TriumphBrokman-ExtraBold.woff2") format("woff2"),
+    url("TriumphBrokman-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-Heavy";
+  src: url("TriumphBrokman-Heavy.woff2") format("woff2"),
+    url("TriumphBrokman-Heavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-Bold";
+  src: url("TriumphBrokman-Bold.woff2") format("woff2"),
+    url("TriumphBrokman-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-DemiBold";
+  src: url("TriumphBrokman-DemiBold.woff2") format("woff2"),
+    url("TriumphBrokman-DemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-Regular";
+  src: url("TriumphBrokman-Regular.woff2") format("woff2"),
+    url("TriumphBrokman-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "TriumphBrokman-Thin";
+  src: url("TriumphBrokman-Thin.woff2") format("woff2"),
+    url("TriumphBrokman-Thin.woff") format("woff");
+}
+.text-Black {
+  font-family: "TriumphBrokman-Black";
+}
+
+.text-Bold {
+  font-family: "TriumphBrokman-Bold";
+}
+
+.text-DemiBold {
+  font-family: "TriumphBrokman-DemiBold";
+}
+
+.text-ExtraBold {
+  font-family: "TriumphBrokman-ExtraBold";
+}
+
+.text-Heavy {
+  font-family: "TriumphBrokman-Heavy";
+}
+
+.text-Italic {
+  font-family: "TriumphBrokman-Italic";
+}
+
+.text-Light {
+  font-family: "TriumphBrokman-Light";
+}
+
+.text-Medium {
+  font-family: "TriumphBrokman-Medium";
+}
+
+.text-Regular {
+  font-family: "TriumphBrokman-Regular";
+}
+
+.text-Thin {
+  font-family: "TriumphBrokman-Thin";
+}
